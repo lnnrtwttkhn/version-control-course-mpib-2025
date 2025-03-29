@@ -210,11 +210,11 @@
     "text": "Last session: recipes project\nGit Essentials\nAt the end of this session, you should have accomplished the following:\n\nCommit at least three changes in recipes.txt.\nMake at least one commit using git commit --amend.\n\nFor example, add a a new entry without a title first, commit, then add a title and use git commit --amend to add the title change to the same commit.\n\nCreate a .gitignore file.\n\nEveryone: Create a random file that you want to ignore, for example image.jpg.\nAll macOS users: Let your repository ignore .DS_Store.\n\n🚀 Optional: Commit .gitkeep in an otherwise empty directory.\n\nPlease keep the recipes folder! We will continue to use it in the following sessions."
   },
   {
-    "objectID": "sessions/slides_session05.html#common-questions-after-last-session",
-    "href": "sessions/slides_session05.html#common-questions-after-last-session",
+    "objectID": "sessions/slides_session05.html#common-questions-from-last-session",
+    "href": "sessions/slides_session05.html#common-questions-from-last-session",
     "title": "Session 5: Branches",
-    "section": "Common questions after last session",
-    "text": "Common questions after last session\n\n\n “How can I make changes in a text (.txt) file?”\n\nRemember: It’s just a regular text file on your computer.\nOption 1: Use a regular text editor (e.g., TextEdit on macOS, Notepad++ on Windows, or others).\nOption 2: Use vim directly from the command line (see chapter / session on “Setup”).\nOption 3: Use command line commands like echo \"My text\" &gt;&gt; recipes.txt.\n\n\n\n\n “I ran git commit but nothing happened?”\n\nMaybe you forgot to run git add before?\n\n\n\n\n “Remember to cd into your recipes project folder!”\n\nEvery time you open the command line, it starts at a default location (likely your home directory).\nCheck in which folder you are, using pwd (“print working directory”).\nUse cd to move to your recipes project folder before you start running the Git commands."
+    "section": "Common questions from last session",
+    "text": "Common questions from last session\n\n\n “How can I make changes in a text (.txt) file?”\n\nRemember: It’s just a regular text file on your computer.\nOption 1: Use a regular text editor (e.g., TextEdit on macOS, Notepad++ on Windows, or others).\nOption 2: Use vim directly from the command line (see chapter / session on “Setup”).\nOption 3: Use command line commands like echo \"My text\" &gt;&gt; recipes.txt.\n\n\n\n\n “I ran git commit but nothing happened?”\n\nMaybe you forgot to run git add before?\n\n\n\n\n “Remember to cd into your recipes project folder!”\n\nEvery time you open the command line, it starts at a default location (likely your home directory).\nCheck in which folder you are, using pwd (“print working directory”).\nUse cd to move to your recipes project folder before you start running the Git commands."
   },
   {
     "objectID": "sessions/slides_session05.html#important-note-git-repository-in-user-folder",
@@ -882,6 +882,13 @@
     "text": "References\n\n\nDeslauriers, L., McCarty, L. S., Miller, K., Callaghan, K., & Kestin, G. (2019). Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom. Proceedings of the National Academy of Sciences, 116(39), 19251–19257. https://doi.org/10.1073/pnas.1821936116. License: CC BY-NC-ND.\n\n\nHeise, V., Holman, C., Lo, H., Lyras, E. M., Adkins, M. C., Aquino, M. R. J., Bougioukas, K. I., Bray, K. O., Gajos, M., Guo, X., Hartling, C., Huerta-Gutierrez, R., Jindrová, M., Kenney, J. P. M., Kępińska, A. P., Kneller, L., Lopez-Rodriguez, E., Mühlensiepen, F., Richards, A., … Weissgerber, T. L. (2023). Ten simple rules for implementing open and reproducible research practices after attending a training course. PLOS Computational Biology, 19(1), e1010750. https://doi.org/10.1371/journal.pcbi.1010750. License: CC BY 4.0.\n\n\nMillman, K. J., Brett, M., Barnowski, R., & Poline, J.-B. (2018). Teaching computational reproducibility for neuroimaging. Frontiers in Neuroscience, 12. https://doi.org/10.3389/fnins.2018.00727.\n\n\nWeissgerber, T. L. (2023). Bridging the gap: From education to implementation. https://doi.org/10.5281/ZENODO.7974345. License: CC BY 4.0.\n\n\nWilliams, L. (2001). Integrating pair programming into a software development process. Proceedings 14th Conference on Software Engineering Education and Training. ’In Search of a Software Engineering Profession’ (Cat. No.PR01059). https://doi.org/10.1109/csee.2001.913816. License: Unknown.\n\n\nWilson, R. C. (2021). NSCS 344 — modeling the mind. University of Arizona. https://u.arizona.edu/~bob/web_NSCS344/. License: Unknown."
   },
   {
+    "objectID": "sessions/slides_session08.html#how-are-you-now",
+    "href": "sessions/slides_session08.html#how-are-you-now",
+    "title": "Session 8: Summary & Outlook",
+    "section": "How are you now?",
+    "text": "How are you now?"
+  },
+  {
     "objectID": "sessions/slides_session08.html#schedule",
     "href": "sessions/slides_session08.html#schedule",
     "title": "Session 8: Summary & Outlook",
@@ -956,7 +963,7 @@
     "href": "sessions/index.html",
     "title": "Sessions",
     "section": "",
-    "text": "Welcome & Introduction to Version Control\n\n\nSession 01\n\n\n\n\n\n15th of January 2025, 14:00\n\n\n(Day 1)\n\n\n\n\n\n\n\nBasics of the Command Line\n\n\nSession 02\n\n\n\n\n\n15th of January 2025, 14:30\n\n\n(Day 1)\n\n\n\n\n\n\n\nSetup & Configuration of Git\n\n\nSession 03\n\n\n\n\n\n15th of January 2025, 15:30\n\n\n(Day 1)\n\n\n\n\n\n\n\nFirst steps with Git & Git Essentials\n\n\nSession 04\n\n\n\n\n\n22nd of January 2025, 14:00\n\n\n(Day 2)\n\n\n\n\n\n\n\nBranches\n\n\nSession 05\n\n\n\n\n\n22nd of January 2025, 15:00\n\n\n(Day 2)\n\n\n\n\n\n\n\nIntegration with GitHub / GitLab\n\n\nSession 06\n\n\n\n\n\n29th of January 2025, 14:00\n\n\n(Day 3)\n\n\n\n\n\n\n\nCollaboration on GitHub / GitLab\n\n\nSession 07\n\n\n\n\n\n29th of January 2025, 15:00\n\n\n(Day 3)\n\n\n\n\n\n\n\nSummary & Outlook\n\n\nSession 08\n\n\n\n\n\n29th of January 2025, 15:45\n\n\n(Day 3)\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome & Introduction to Version Control\n\n\nSession 01\n\n\n\n\n\n09:30\n\n\n\n\n\n\n\nBasics of the Command Line\n\n\nSession 02\n\n\n\n\n\n10:00\n\n\n\n\n\n\n\nSetup & Configuration of Git\n\n\nSession 03\n\n\n\n\n\n11:00\n\n\n\n\n\n\n\nFirst steps with Git & Git Essentials\n\n\nSession 04\n\n\n\n\n\n11:15\n\n\n\n\n\n\n\nBranches\n\n\nSession 05\n\n\n\n\n\n12:00\n\n\n\n\n\n\n\nLunch Break\n\n\nSession Lunch\n\n\n\n\n\n13:00\n\n\n\n\n\n\n\nIntegration with GitHub / GitLab\n\n\nSession 06\n\n\n\n\n\n14:00\n\n\n\n\n\n\n\nCollaboration on GitHub / GitLab\n\n\nSession 07\n\n\n\n\n\n15:00\n\n\n\n\n\n\n\nSummary & Outlook\n\n\nSession 08\n\n\n\n\n\n16:00\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "sessions/session_extraexercise.html",
@@ -1274,11 +1281,11 @@
     "text": "Last session: recipes project\n\n\nCommand line\nAt the end of this session, you should have accomplished the following:\n\nYou used the command line to create a folder on your computer called recipes.\nYou used the command line to create a file called recipes.txt inside the recipes folder.\n\nPlease keep the recipes folder! We will continue to use it in the following sessions.\n\n\n\nSetup\nAt the end of this session, you should have accomplished the following:\n\nYou set up Git.\nYou configured Git.\n\nPlease keep the recipes folder! We will continue to use it in the following sessions."
   },
   {
-    "objectID": "sessions/slides_session04.html#questions-from-last-session",
-    "href": "sessions/slides_session04.html#questions-from-last-session",
+    "objectID": "sessions/slides_session04.html#common-questions-from-last-session",
+    "href": "sessions/slides_session04.html#common-questions-from-last-session",
     "title": "Session 4: First steps with Git & Git Essentials",
-    "section": "Questions from last session",
-    "text": "Questions from last session\n\n\n “How can I enable copy-paste in Git Bash?”\n\nClick on the Git Bash icon in the top-left corner.\nChoose Options.\nGo to Keys menu.\nEnable Copy and Paste (Ctrl/Shift + Ins) option.\nClick Apply and Save.\n\n\n\n\n “How do I find the Users folder on Windows?”\n\nUse ~\nIf pwd is at /: you can still use cd C:\n\n\n\n\n “The command line does not give feedback!”\n\nYes, I know, I’m sorry …\nYou need to check explicitly if the command had the desired effect.\nExample: After mkdir recipes, use ls to check if the /recipes folder was created."
+    "section": "Common questions from last session",
+    "text": "Common questions from last session\n\n\n “How can I enable copy-paste in Git Bash?”\n\nClick on the Git Bash icon in the top-left corner.\nChoose Options.\nGo to Keys menu.\nEnable Copy and Paste (Ctrl/Shift + Ins) option.\nClick Apply and Save.\n\n\n\n\n “How do I find the Users folder on Windows?”\n\nUse ~\nIf pwd is at /: you can still use cd C:\n\n\n\n\n “The command line does not give feedback!”\n\nYes, I know, I’m sorry …\nYou need to check explicitly if the command had the desired effect.\nExample: After mkdir recipes, use ls to check if the /recipes folder was created."
   },
   {
     "objectID": "sessions/slides_session04.html#learning-objectives",
@@ -1540,6 +1547,13 @@
     "text": "About\n\n\nMe\n🧑‍🔬 Position: Postdoctoral Researcher at the Institute of Psychology at the University of Hamburg\n🎓 Education: BSc Psychology & MSc Cognitive Neuroscience (TU Dresden), PhD Cognitive Neuroscience (MPIB)\n🔬 Research: I study the role of fast neural memory reactivation (“replay”) in the human brain using fMRI\n🔗 Contact: You can connect with me via email, Mastodon, GitHub or LinkedIn\nℹ️ Info: Find out more about my work on my website, Google Scholar and ORCiD\n\n\n\nThis course\n💻 Materials: All materials are available at https://lennartwittkuhn.com/version-control-course-mpib-2025/\n📦 Software: Reproducible materials are built with Quarto and deployed to GitHub Pages using GitHub Actions\n\n Source: Code is available on GitHub at https://github.com/lnnrtwttkhn/version-control-course-mpib-2025/\n🙏 Contact: I am happy for any feedback or suggestions via email or GitHub issues. Thank you!"
   },
   {
+    "objectID": "sessions/slides_session01.html#who-are-you",
+    "href": "sessions/slides_session01.html#who-are-you",
+    "title": "Session 1: Welcome & Introduction to Version Control",
+    "section": "Who are you?",
+    "text": "Who are you?\n\n\n\nYour name?\nYour preferred pronouns?\nYour research group?\nYour research?\nYour mood on a sheep scale?"
+  },
+  {
     "objectID": "sessions/slides_session01.html#course-overview",
     "href": "sessions/slides_session01.html#course-overview",
     "title": "Session 1: Welcome & Introduction to Version Control",
@@ -1589,6 +1603,13 @@
     "text": "Cheatsheets\n\nEach session / chapter / slidedeck contains a cheatsheet with relevant commands.\nFor an overview of all cheatsheets, see https://lennartwittkuhn.com/version-control-book/misc/cheatsheet.html.\n\n\n\nExample cheatsheet: Basic Git commands\n\n\n\n\n\n\n\n\n\nCommand\nDescription\n\n\n\n\ngit init\nInitializes a folder as a Git repository\n\n\ngit status\nShows Git tracking status of files in the repository\n\n\ngit add\nAdds file(s) to the staging area\n\n\ngit commit\nCommits staged files\n\n\ngit commit -m \"commit message\"\nCommits staged files with a commit message"
   },
   {
+    "objectID": "sessions/slides_session01.html#pair-programming-variant",
+    "href": "sessions/slides_session01.html#pair-programming-variant",
+    "title": "Session 1: Welcome & Introduction to Version Control",
+    "section": "Pair Programming (variant)",
+    "text": "Pair Programming (variant)\n\n\n\nFind and say hello to your nearest desk neighbor\nComplete the exercises together, help each other out, etc.\n\n\n\n\n\nThis illustration is created by Scriberia with The Turing Way community. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
+  },
+  {
     "objectID": "sessions/slides_session01.html#course-exercise-building-an-online-recipes-book",
     "href": "sessions/slides_session01.html#course-exercise-building-an-online-recipes-book",
     "title": "Session 1: Welcome & Introduction to Version Control",
@@ -1601,6 +1622,13 @@
     "title": "Session 1: Welcome & Introduction to Version Control",
     "section": "Code of Conduct",
     "text": "Code of Conduct\nDuring this course, we want to ensure a safe, productive, and welcoming environment for everyone who attends. All participants and speakers are expected to abide by this code of conduct. We do not tolerate any form of discrimination or harassment in any form or by any means. If you experience harassment or hear of any incidents of unacceptable behavior, please reach out to the course instructor, Dr. Lennart Wittkuhn (lennart.wittkuhn@tutanota.com), so that we can take the appropriate action.\nUnacceptable behavior is defined as:\n\nHarassment, intimidation, or discrimination in any form, verbal abuse of any attendee, speaker, or other person. Examples include, but are not limited to, verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, national origin, inappropriate use of nudity and/or sexual images in public spaces or in presentations, or threatening or stalking.\nDisruption of presentations throughout the course. We ask all participants to comply to the instructions of the speaker with regard to dedicated discussion space and time.\nParticipants should not take pictures of any activity in the course room without asking all involved participants for consent and receiving this consent.\n\nA first violation of this code of conduct will result in a warning, and subsequent violations by the same person can result in the immediate removal from the course without further warning. The organizers also reserve the right to prohibit attendance of excluded participants from similar future workshops, courses or meetings they organize."
+  },
+  {
+    "objectID": "sessions/slides_session01.html#breaks",
+    "href": "sessions/slides_session01.html#breaks",
+    "title": "Session 1: Welcome & Introduction to Version Control",
+    "section": "Breaks",
+    "text": "Breaks\n\nWe will have a one-hour lunch break at 13:00.\nFeel free to take short breaks in-between (sessions) when needed."
   },
   {
     "objectID": "sessions/slides_session01.html#expectations",
